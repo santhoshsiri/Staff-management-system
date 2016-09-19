@@ -1,0 +1,30 @@
+
+<?php
+         $department=$_POST['department'];
+        //  $_SESSION['user_name']=$user_name;
+        //  $text1 = $_POST['password'];
+        //  $dbhost = 'localhost';
+        //  $dbuser = 'root';
+        //  $dbpass = '';
+        //  $conn = mysql_connect($dbhost, $dbuser, $dbpass);
+        //  if(! $conn )
+        // {
+        //          die('Could not connect: ' . mysql_error());
+        // }
+
+        // $query="SELECT * FROM login where username='".$user_name."' and password='".$text1."'";
+        // mysql_select_db('sms');
+        // $result=mysql_query($query,$conn);
+        // if(mysql_num_rows($result)>0) 
+        //         {
+                
+        //             $_SESSION["password"]=$text1;
+        //             header("Location:profile.php");
+        //         }
+        // else
+        // {
+        //           echo "<script>alert('You are not a Authorized user!')</script>";
+        //           echo "<script>location.href='login.php'</script>"; 
+
+        // }
+?>
